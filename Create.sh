@@ -16,8 +16,9 @@ echo  $red    "|       TOOLS Create Script Deface        |"
 echo  $red    "|                                         |"
 echo  $red    "| Author        : Mr.51mb4h               |"
 echo  $red    "| date          : 11-4-2019               |"
-echo  $red    "| My Team       : BANYUMAS CYBER TEAM     |"
-echo  $red    "| selamat mencoba njiing                  |"
+echo  $red    "| My Team       : PASEDULURAN CYBER TEAM    |"
+echo  $red    "|               -INDENPENDENT CYBER TEAM  |"
+echo  $red    "|selamat mencoba njiing                  |"
 echo  $blue "<!÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷!>"
 
 sleep 5
